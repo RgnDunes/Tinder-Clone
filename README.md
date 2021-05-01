@@ -2,6 +2,10 @@
 
 ## **[Packages Used]()**
 
+- react-router-dom
+- react-tinder-card
+- material-ui
+
 ## **[APIs Used]()**
 
 ## **[useState]()**
