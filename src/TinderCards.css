@@ -13,7 +13,10 @@
 .card > h3 {
   position: absolute;
   bottom: 10px;
-  color: #fd297b;
+  padding: 5px;
+  border-radius: 10px;
+  background-color: #fd297b;
+  color: white;
 }
 
 .tindercards__cardContainer {
